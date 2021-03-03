@@ -158,9 +158,8 @@ header{
   border: 10px solid black;
   padding: 30px;
   /*Your code here:*/
-  align-items: center;
-  justify-content: center;
-  vertical-align: middle;
+  align-self: center;
+  
 }
 
 
